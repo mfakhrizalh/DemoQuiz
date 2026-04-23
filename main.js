@@ -60,9 +60,9 @@ const quizData = [
     answer: 'Cheese',
   },
   {
-    question: '10. Berapakah 2 + 10 / 5 ? ',
-    options: ['0', '100', '20', '4'],
-    answer: '4',
+    question: '10. Apa bahasa inggrisnya warna merah ? ',
+    options: ['Black', 'Blue', 'Yellow', 'Red'],
+    answer: 'Red',
   },
 ];
 
